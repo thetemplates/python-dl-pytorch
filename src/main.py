@@ -1,3 +1,4 @@
+"""Module main.py"""
 import logging
 import os
 import sys
@@ -5,7 +6,13 @@ import sys
 import torch
 
 
-def main():
+def main() -> None:
+    """
+    Entry point
+
+    :return:
+        None
+    """
 
     logger: logging.Logger = logging.getLogger(__name__)
 
@@ -34,8 +41,8 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO,
                         format='\n\n%(message)s\n%(asctime)s.%(msecs)03d',
                         datefmt='%Y-%m-%d %H:%M:%S')
-    
+
     # Modules
     import src.functions.cache
-    
+
     main()
