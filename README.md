@@ -1,3 +1,26 @@
+<br>
+
+A base template for transformer dependent natural language processing via PyTorch
+
+<br>
+
+[![For Natural Language Processing](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml)
+
+<br>
+
+[![For Natural Language Processing](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml)
+
+<br>
+
+* Environments
+  * [Remote Development](#remote-development)
+  * [Remote Development & Integrated Environments](#remote-development--integrated-development-environments)
+* [Code Analysis](#code-analysis)
+  * [pylint](#pylint)
+  * [pytest & pytest coverage](#pytest--pytest-coverage)
+  * [flake8](#flake8)
+
+<br>
 
 ## Environments
 
