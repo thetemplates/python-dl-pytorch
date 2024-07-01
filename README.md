@@ -4,11 +4,11 @@ A base template for transformer dependent natural language processing via PyTorc
 
 <br>
 
-[![For Natural Language Processing](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml)
+[![For Transformers Dependent Natural Language Processing](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml)
 
 <br>
 
-[![For Natural Language Processing](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml)
+[![For Transformers Dependent Natural Language Processing](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/thetemplates/python-dl-pytorch/actions/workflows/main.yml)
 
 <br>
 
