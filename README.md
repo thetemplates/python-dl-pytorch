@@ -110,6 +110,19 @@ The `.pylintrc` file of this template project has been **amended to adhere to te
 
 <br>
 
+### pytest & pytest coverage
+
+The directive patterns
+
+```shell
+python -m pytest tests/{directory.name}/...py
+pytest --cov-report term-missing  --cov src/{directory.name}/...py tests/{directory.name}/...py
+```
+
+for test and test coverage, respectively.
+
+<br>
+
 ### flake8
 
 For code & complexity analysis.  A directive of the form
